@@ -1,0 +1,7 @@
+model\Task.class
+Main.class
+dao\SQLiteTaskDAO.class
+Tarea.class
+dao\DAO.class
+controller\TaskController.class
+ListaDeTareas.class
